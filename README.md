@@ -4,7 +4,6 @@ Welcome to our public issue tracker! This repository serves as a central hub for
 
 ## 🚀 Our Products
 - Wavefront Platform - [Link](https://realapp.colossum.io/auth/login)
-- Website - [Link]
 
 ## 📝 How to Submit an Issue
 1. Click on the "Issues" tab above
