@@ -40,4 +40,4 @@ Welcome to our public issue tracker! This repository serves as a central hub for
 
 ---
 
-Made with ❤️ by [Colossum Studios] Team
+Made with ❤️ by [Colossum Studios Team](https://www.colossum.io/#about)
